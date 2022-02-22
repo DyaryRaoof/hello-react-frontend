@@ -17,7 +17,7 @@ A test project built with React, built for Microverse full-stack developer curic
 - Open the cloned folder on the IDE of your choice;
 - Install dependencies with `npm i`;
 - Use `npm start` to start the website;
-- Go to this url to see the greeting messages that come from the back end: `http://localhost:3000/greeting`
+- Go to this [url](http://localhost:3000/greeting) to see the greeting messages that come from the back end: http://localhost:3000/greeting
 
 ## Author
 
